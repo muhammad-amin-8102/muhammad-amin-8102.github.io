@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments on: Home	</title>
-	<atom:link href="http://localhost/wp-test/home/feed/?simply_static_page=816" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/wp-test/home/feed/?simply_static_page=1585" rel="self" type="application/rss+xml" />
 	<link>/ahcs-static</link>
 	<description></description>
-	<lastBuildDate>Mon, 19 Jun 2017 05:41:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 Mar 2024 05:44:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

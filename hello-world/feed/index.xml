@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="http://localhost/wp-test/hello-world/feed/?simply_static_page=855" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/wp-test/hello-world/feed/?simply_static_page=1626" rel="self" type="application/rss+xml" />
 	<link>/ahcs-static/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Thu, 14 Mar 2024 04:06:20 +0000</lastBuildDate>

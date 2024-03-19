@@ -9,7 +9,7 @@
 
 <channel>
 	<title>AHCS</title>
-	<atom:link href="http://localhost/wp-test/feed/?simply_static_page=814" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/wp-test/feed/?simply_static_page=1583" rel="self" type="application/rss+xml" />
 	<link>/ahcs-static</link>
 	<description></description>
 	<lastBuildDate>Thu, 14 Mar 2024 04:06:20 +0000</lastBuildDate>
